@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Test Adding file</p>
+	    <p>Test Adding file build automatic</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
